@@ -1,6 +1,5 @@
 # I2C Temperature Sensor Interface on Basys 3 FPGA with PmodTMP2
 
-![Basys 3 and PmodTMP2](https://user-images.githubusercontent.com/your-image)  
 > I2C communication project to interface the ADT7420 temperature sensor on the PmodTMP2 module with the Basys 3 FPGA board.
 
 ## 📋 Project Overview
